@@ -4,7 +4,7 @@ Professional, responsive portfolio to showcase projects to potential interviewer
 
 ## Live Demo
 
-https://your-portfolio-url.vercel.app/
+https://portfolio-site-6os5mm6mu-talal-shabibs-projects.vercel.app/
 
 ## Preview
 ![Preview](./public/preview.png)
