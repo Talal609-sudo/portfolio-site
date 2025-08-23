@@ -4,8 +4,8 @@ export default function Contact() {
       <h1 className="text-2xl sm:text-3xl font-bold">Contact</h1>
       <div className="space-y-2">
         <p>Name: Talal Shabib </p>
-        <p>Email: talal.shabib@gmail.com </p>
-        <p>Phone: +92 3304217162 </p>
+        <p>Email: contact@example.com </p>
+        <p>Phone: +1 (000) 000-0000 </p>
       </div>
     </div>
   );
